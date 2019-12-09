@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+File "000-2016-0779-6570-L93-0M50-E100.jp2"
+Type "RASTER"
+(779000.0,6570000.0) (0,0) Label "Pt 1",
+(780000.0,6570000.0) (2000,0) Label "Pt 2",
+(780000.0,6569000.0) (2000,2000) Label "Pt 3",
+(779000.0,6569000.0) (0,2000) Label "Pt 4"
+CoordSys Earth Projection 3, 104, "m", 3, 46.5, 49, 44, 700000, 6600000
+Units "m"
